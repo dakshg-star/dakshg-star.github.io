@@ -4,6 +4,8 @@
 
 I am a computer science major at California State University. I plan on graduating in 2029
 
+My Github Profile: https://github.com/dakshg-star/
+
 
 ## Favorite CPSC 120L Lab Assignments
 
