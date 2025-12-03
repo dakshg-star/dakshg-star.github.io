@@ -1,6 +1,7 @@
 
 # Daksh Gosai's portfolio
 
+
 I am a computer science major at California State University. I plan on graduating in 2029
 
 
